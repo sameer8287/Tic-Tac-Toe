@@ -1,16 +1,14 @@
-# my_own
+# Tic Tac Toe 
 
 A new Flutter project.
 
-## Getting Started
+#OUTPUT SCREEN 1
 
-This project is a starting point for a Flutter application.
+![Screenshot_2022-11-08-18-39-54-800_com example my_own](https://user-images.githubusercontent.com/113275452/200580306-5662da6a-d8de-4de9-a103-4c50519ed23c.jpg)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+#OUTPUT SCREEN 2
+
+![Screenshot_2022-11-08-18-39-31-347_com example my_own](https://user-images.githubusercontent.com/113275452/200580325-59102f75-3af4-4cea-92c4-bf4d22324b60.jpg)
